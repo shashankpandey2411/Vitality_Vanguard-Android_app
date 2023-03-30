@@ -19,8 +19,8 @@ Map page
 Payment page
 
 Requirement:
-Android Studio
-Firebase
+Android Studio,
+Firebase,
 Map Api
 
 
